@@ -1,0 +1,4 @@
+langchain==1.3.13
+langchain-core
+jupyter
+ipykernel
